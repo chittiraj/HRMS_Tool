@@ -1,6 +1,6 @@
-`HRMS Tool`
+<h2>HRMS Tool<\h2>
  
- This is a Human Resource Management System (HRMS) web application built using React.js for the frontend and integrated with a backend system using Redux as the state management and middleware layer.
+This is a Human Resource Management System (HRMS) web application built using React.js for the frontend and integrated with a backend system using Redux as the state management and middleware layer.
 
 `🔧 Technologies Used`
 
@@ -13,7 +13,7 @@
 - Axios/Thunk (if applicable) – For handling async API calls
 
 `✨ Key Features`
-Responsive UI for managing employee data, attendance, and more
+- Responsive UI for managing employee data, attendance, and more
 
 - Clean state management using Redux store
 
@@ -22,7 +22,7 @@ Responsive UI for managing employee data, attendance, and more
 - Smooth integration with backend APIs
 
 `🚀 What I Learned `
-Through this project, I gained hands-on experience in React.js and significantly improved my understanding of:
+- Through this project, I gained hands-on experience in React.js and significantly improved my understanding of:
 
 - Building reusable components
 
