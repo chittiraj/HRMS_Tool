@@ -1,4 +1,4 @@
-<h2>HRMS Tool<\h2>
+<h2>HRMS Tool</h2>
  
 This is a Human Resource Management System (HRMS) web application built using React.js for the frontend and integrated with a backend system using Redux as the state management and middleware layer.
 
